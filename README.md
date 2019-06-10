@@ -6,7 +6,7 @@
 
 вот макакское представление зарвавшихся мажоров своего воображения при демонстрирований вот этих вот сверх форматов и 
 
-хайп на ютубчеке об этом не нужен , я вам говорю srgb это будущее. Профиль edid нял на всякий случай по статье https://mycyberuniverse.com/ru/linux/podstanovka-fayla-proshivki-vmesto-vshitogo-edid-monitora.html
+хайп на ютубчеке об этом не нужен , я вам говорю srgb это будущее. Профиль edid снял на всякий случай по статье https://mycyberuniverse.com/ru/linux/podstanovka-fayla-proshivki-vmesto-vshitogo-edid-monitora.html
 
 Все статьи что кто то раньше открыл это липа хозяина интернета потому что иначе бы в профиле монитора 
 
