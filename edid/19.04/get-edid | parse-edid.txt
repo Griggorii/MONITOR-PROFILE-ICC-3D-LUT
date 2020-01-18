@@ -1,0 +1,28 @@
+This is read-edid version 3.0.2. Prepare for some fun.
+Attempting to use i2c interface
+No EDID on bus 1
+No EDID on bus 2
+No EDID on bus 4
+No EDID on bus 5
+No EDID on bus 6
+No EDID on bus 7
+2 potential busses found: 0 3
+Will scan through until the first EDID is found.
+Pass a bus number as an option to this program to go only for that one.
+Bus 0 doesn't really have an EDID...
+128-byte EDID successfully retrieved from i2c bus 3
+Looks like i2c was successful. Have a good day.
+Checksum Correct
+
+Section "Monitor"
+	Identifier ""
+	ModelName ""
+	VendorName "LGD"
+	# Monitor Manufactured week 0 of 2010
+	# EDID version 1.3
+	# Digital Display
+	DisplaySize 340 190
+	Gamma 2.20
+	Option "DPMS" "false"
+	Modeline 	"Mode 0" 70.00 1366 1402 1450 1492 768 771 776 782 -hsync -vsync 
+EndSection
